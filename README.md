@@ -15,13 +15,11 @@ I'm a SWE .
 - Learning `WebAssembly`, `Rust`.
 
 ### Find me here!
-<!-- [Twitter](https://twitter.com/yourhandle)
+<!-- 
+[Twitter](https://twitter.com/yourhandle)
 - [LinkedIn](https://linkedin.com/in/yourname)
---> [Personal Website](https://yourwebsite.com)
-
-### Fun Facts:
-- When I’m not coding, I’m gaming.
-
+ [Personal Website](https://yourwebsite.com)
+-->
 
 ## Reading:
 - 📖 [Book Title 1](link-to-book)
