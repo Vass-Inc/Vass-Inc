@@ -1,7 +1,8 @@
-# Hey, I'm Vass
-<img align="right" width="400" src="https://media.tenor.com/images/76fe318592b2806092c71a9bc9995509/tenor.gif">
+# Welcome!
 
-Welcome!
+![bruce-almighty-comedy](https://github.com/user-attachments/assets/cc476baf-7959-42c5-b132-376690c6e372)
+
+
 I'm a SWE .
 
 ### 🔧 Technologies I use:
