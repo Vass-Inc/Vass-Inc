@@ -1,6 +1,6 @@
 # Hey, I'm Vass
 
-<img align="right" alt="Coding" width="400" src="https://external-preview.redd.it/LQ68TzFSZccT-EI8-OzHlk1xDmQyhZPmvAUpkY5rYV4.gif?width=600&format=mp4&s=67ba34670bae8eba7b0517fdc0444a65229b1cbd">
+<gif align="right" alt="Coding" width="400" src="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485">
 Welcome!
 I'm a SWE .
 
