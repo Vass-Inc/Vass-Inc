@@ -1,6 +1,6 @@
 # Hey, I'm Vass
 
-<gif align="right" alt="Coding" width="400" src="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485">
 Welcome!
 I'm a SWE .
 
