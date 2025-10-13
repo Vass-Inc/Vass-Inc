@@ -11,7 +11,7 @@ I'm a SWE .
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vass-Inc&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ### Things i am learning or doing:
-<!--> [Project 1](link-to-project): A cool project that solves a problem I’ve been passionate about.
+<!-- [Project 1](link-to-project): A cool project that solves a problem I’ve been passionate about. -->
 - Learning `WebAssembly`, `Rust`.
 
 ### Find me here!
