@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 - 💡 Other Tools: `Git`, `Docker`, `Nginx`, `Webpack`
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vass-Inc&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ### 💻 Projects I'm Working On:
 - [Project 1](link-to-project): A cool project that solves a problem I’ve been passionate about.
